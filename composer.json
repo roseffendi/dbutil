@@ -1,0 +1,14 @@
+{
+    "name": "increative/dbutil",
+    "description": "Database utility",
+    "type": "git",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mohammad Roseffendi",
+            "email": "carrpirates@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
